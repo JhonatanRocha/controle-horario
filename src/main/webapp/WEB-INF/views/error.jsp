@@ -2,7 +2,7 @@
     pageEncoding="UTF-8"%>
 <%@ taglib tagdir="/WEB-INF/tags" prefix="tags"%>
 
-<tags:pageTemplate title="">
+<tags:pageTemplate title="Erro...">
 
 	<section>
 		<h2>pagina de erro</h2>

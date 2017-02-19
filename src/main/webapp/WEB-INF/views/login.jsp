@@ -9,7 +9,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Intera Consultoria - Controle de Horas</title>
+    
     <c:url value="/resources" var="resourcesPath" />
+    
+    <link rel="icon" type="image/png" href="${resourcesPath}/imagens/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="${resourcesPath}/imagens/favicon-16x16.png" sizes="16x16">
+    
     <link rel="stylesheet" href="${resourcesPath}/components/bootstrap/css/bootstrap.min.css" />
     <link rel="stylesheet" href="${resourcesPath}/components/bootstrap/css/bootstrap-theme.min.css" />
     <link rel="stylesheet" href="${resourcesPath}/components/font-awesome/css/font-awesome.min.css" />

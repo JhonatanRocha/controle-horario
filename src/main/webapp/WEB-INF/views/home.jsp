@@ -5,9 +5,8 @@
 <%@ taglib uri="http://www.springframework.org/security/tags" prefix="security" %>
 <%@ taglib tagdir="/WEB-INF/tags" prefix="tags"%>
 
-<tags:pageTemplate title="">
-
+<tags:pageTemplate title="Home">
 	<section>
-		<h1>Home aki</h1>
+		home aki
 	</section>
 </tags:pageTemplate>
